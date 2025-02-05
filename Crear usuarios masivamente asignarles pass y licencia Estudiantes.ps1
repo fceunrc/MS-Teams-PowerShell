@@ -1,3 +1,4 @@
+# Columnas del archivo mailNickname;displayName;userPrincipalName;password;firstname;lastname;usageLocation;skuId
 # Ruta del archivo CSV
 $csvPath = "C:\Users\usuario\Desktop\MATRICULACION\PowerShell\usuarioserror.csv" # Reemplazar por la ruta a tu archivo
 $logErrorPath = "C:\Users\usuario\Desktop\MATRICULACION\PowerShell\log_errores.txt"
